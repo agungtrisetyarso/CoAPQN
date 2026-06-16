@@ -7,7 +7,7 @@ This repository contains the simulation code accompanying the paper:
 
 > **Competitive Analysis of Online Perishable Entanglement Routing in Quantum Networks: A Corrected Primal-Dual Approach**
 
-**Authors:** Agung Trisetyarso, Lenny Putri Yulianti, Kridanto Surendro
+**Authors:** Agung Trisetyarso, et. al,
 
 ---
 
